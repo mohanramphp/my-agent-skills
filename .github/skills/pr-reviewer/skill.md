@@ -66,6 +66,8 @@ Analyze:
 
 ## Step 4: Angular Deep Review (IMPORTANT)
 
+When Angular code is present, prioritize Angular-specific skills and modern Angular patterns over generic suggestions.
+
 If ANY of the following is present:
 
 - `@Component`
